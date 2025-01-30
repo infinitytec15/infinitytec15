@@ -49,8 +49,10 @@
 
 ## 🚀 Projetos Destacados
 
-- **[Projeto 1](https://github.com/infinitytec15)** - Descrição breve do projeto.
-.
+- **[Girowin](https://girowin.com)** - Cassino
+- **[Intra Pay](https://intrapay.io)** - Fintech
+-  **[Intra Charger](https://intracharger.com.br)** - Recarga de Veículos
+
 
 ## 🌟 Habilidades
 
