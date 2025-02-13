@@ -52,7 +52,8 @@
 - **[Girowin](https://girowin.com)** - Cassino
 - **[Intra Pay](https://intrapay.io)** - Fintech
 -  **[Intra Charger](https://intracharger.com.br)** - Recarga de Veículos
-
+-  **[Monitor de Loterias em Golang](https://github.com/infinitytec15/monitor-loterias-golang)**
+-  **[Monitor de Loterias em Python](https://github.com/infinitytec15/monitor_loterias_python)**
 
 ## 🌟 Habilidades
 
