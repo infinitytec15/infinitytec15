@@ -53,7 +53,9 @@
 - **[Intra Pay](https://intrapay.io)** - Fintech
 -  **[Intra Charger](https://intracharger.com.br)** - Recarga de Veículos
 -  **[Monitor de Loterias em Golang](https://github.com/infinitytec15/monitor-loterias-golang)**
--  **[Monitor de Loterias em Python](https://github.com/infinitytec15/monitor_loterias_python)**
+-  **[Monitor de Loterias em Python](https://github.com/infinitytec15/monitor_loterias_python)**  
+-  **[Script GTARP FIVEM](https://github.com/infinitytec15/script-recarga-gtarp)** - Script de Recarga de Carro eletrico
+-  **[Script de jogos de carta GTARP FIVEM](https://github.com/infinitytec15/cartas_gtaRP)**  
 
 ## 🌟 Habilidades
 
