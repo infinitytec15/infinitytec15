@@ -88,7 +88,7 @@
 ---
 
 📬 Me chama pra colaborar ou bater um papo tech:  
-[![Email](https://img.shields.io/badge/-gilbertojr.dev@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gilberto@infinitytec.info)
+[![Email](https://img.shields.io/badge/-gilberto@infinitytec.info-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gilberto@infinitytec.info)
 
 ---
 
