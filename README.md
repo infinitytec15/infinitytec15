@@ -1,14 +1,49 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gilberto%20Jr&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20AI%20%26%20Automation%20Architect&descAlignY=58&descSize=20&descColor=a78bfa"/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=800&lines=⚙️+Backend+Engineer+%7C+PHP+%7C+Python+%7C+Go+%7C+C%23;🤖+AI+Engineer+%26+Automation+Architect;🔗+n8n+%7C+LangChain+%7C+OpenAI+%7C+Multi-Agent+Systems;🛡️+Ethical+Hacker+%26+DevOps+Enthusiast;⚡+Microservices+%7C+AWS+%7C+Clean+Architecture)](https://git.io/typing-svg)
+<!-- HEADER SVG - self-hosted inline, never breaks -->
+<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)" rx="10"/>
+  <!-- decorative circles -->
+  <circle cx="820" cy="30" r="60" fill="#7c3aed" opacity="0.15"/>
+  <circle cx="80"  cy="150" r="50" fill="#a78bfa" opacity="0.10"/>
+  <!-- wave path -->
+  <path d="M0,140 C150,100 300,160 450,130 C600,100 750,150 900,120 L900,180 L0,180 Z" fill="url(#wave1)"/>
+  <!-- name -->
+  <text x="450" y="80" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="900"
+        fill="white" text-anchor="middle" letter-spacing="2">Gilberto Jr</text>
+  <!-- subtitle -->
+  <text x="450" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="18"
+        fill="#a78bfa" text-anchor="middle" letter-spacing="1">Backend Engineer  •  AI &amp; Automation Architect</text>
+  <!-- bottom dots -->
+  <circle cx="380" cy="148" r="3" fill="#a78bfa" opacity="0.7"/>
+  <circle cx="400" cy="148" r="3" fill="#7c3aed" opacity="0.7"/>
+  <circle cx="420" cy="148" r="3" fill="#a78bfa" opacity="0.7"/>
+  <circle cx="440" cy="148" r="3" fill="#7c3aed" opacity="0.7"/>
+  <circle cx="460" cy="148" r="3" fill="#a78bfa" opacity="0.7"/>
+  <circle cx="480" cy="148" r="3" fill="#7c3aed" opacity="0.7"/>
+  <circle cx="500" cy="148" r="3" fill="#a78bfa" opacity="0.7"/>
+  <circle cx="520" cy="148" r="3" fill="#7c3aed" opacity="0.7"/>
+</svg>
 
 <br/>
 
-<!-- PROFILE BADGES ROW -->
+<!-- TYPING ANIMATION — demolab is stable and maintained -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=820&lines=⚙️+Backend+Engineer+%7C+PHP+%7C+Python+%7C+Go+%7C+C%23;🤖+AI+Engineer+%26+Automation+Architect;🔗+n8n+%7C+LangChain+%7C+OpenAI+%7C+Multi-Agent+Systems;🛡️+Ethical+Hacker+%26+DevOps+Enthusiast;⚡+Microservices+%7C+AWS+%7C+Clean+Architecture)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- BADGES -->
 <a href="https://github.com/infinitytec15">
   <img src="https://img.shields.io/github/followers/infinitytec15?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117"/>
 </a>
@@ -21,10 +56,9 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hyperkitty.gif"/>
-
 ## 🧠 Quem sou eu?
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hyperkitty.gif"/>
 
 ```yaml
 name: Gilberto Jr
@@ -72,7 +106,7 @@ fun_fact: "Xadrez no sangue, código na veia ♟️"
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=green"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
@@ -109,35 +143,56 @@ fun_fact: "Xadrez no sangue, código na veia ♟️"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=infinitytec15&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitytec15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=infinitytec15&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitytec15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<!-- STREAK STATS - Animated fire streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitytec15&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888"/>
+<img src="https://streak-stats.demolab.com/?user=infinitytec15&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888"/>
 
 </div>
 
 ---
 
-## 🐍 Snake comendo meus commits!
+## 🏆 Conquistas no GitHub
 
+<!-- Using shields.io stats badges — always reliable, no external service dependency -->
 <div align="center">
 
-<!-- SNAKE ANIMATION ON CONTRIBUTIONS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infinitytec15/infinitytec15/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitytec15/infinitytec15/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/infinitytec15/infinitytec15/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Finfinitytec15&query=public_repos&style=for-the-badge&label=Repos+Públicos&color=7c3aed&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Finfinitytec15&query=followers&style=for-the-badge&label=Seguidores&color=a78bfa&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/badge/Stack-Backend%20%2B%20AI-ff6b35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Open%20Source-First-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
-> 💡 **Para ativar a snake:** Adicione um GitHub Action no seu repositório de perfil:
-> `.github/workflows/snake.yml` → [Veja o tutorial aqui](https://github.com/Platane/snk)
+<div align="center">
+
+<!-- Achievement badges -->
+| 🥇 | 🎯 Skill | 🏅 Nível |
+|:---:|:---|:---:|
+| ⚡ | Backend de Alta Performance | Expert |
+| 🤖 | AI & Automation Engineering | Expert |
+| 🕷️ | Scraping & Bot Development | Expert |
+| ☁️ | Cloud-Native (AWS + Docker) | Advanced |
+| 🛡️ | Ethical Hacking & Security | Intermediate |
+| ♟️ | Raciocínio Lógico (Xadrez) | Priceless |
+
+</div>
+
+---
+
+## 🗓️ Mapa de Contribuições
+
+<div align="center">
+
+<!-- ghchart.rshah.org — serviço simples, estável, sem Actions necessário -->
+<img src="https://ghchart.rshah.org/7c3aed/infinitytec15" alt="Contribution Chart" width="100%"/>
+
+</div>
 
 ---
 
@@ -151,28 +206,18 @@ fun_fact: "Xadrez no sangue, código na veia ♟️"
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=infinitytec15&theme=darkhub&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 
 | 🎯 Projeto | 🛠️ Stack | 📝 Descrição |
-|-----------|---------|-------------|
-| 🎰 [**Girowin**](https://girowin.com) | JS · NesteJS · Postgres | Plataforma de cassino online de alta performance |
-| 💳 [**Intra Pay**](https://intrapay.io) | Nodejs · Nest · PostgreSQL | Fintech com PIX e pagamentos automatizados |
-| 💳 [**Spotty**](https://intrapay.io) | TS - Python - LLM | Sistema para busca de pontos de recarga |
-| 💳 [**Host Check**](https://hostcheck.com.br) | Python · React · PostgreSQL | Gestão Inteligente de Hospedes |
+|:----------|:--------|:------------|
+| 🎰 [**Girowin**](https://girowin.com) | JS · NestJS · PostgreSQL | Plataforma de cassino online de alta performance |
+| 💳 [**Intra Pay**](https://intrapay.io) | Node.js · Nest · PostgreSQL | Fintech com PIX e pagamentos automatizados |
+| 🔍 [**Spotty**](https://intrapay.io) | TS · Python · LLM | Sistema para busca de pontos de recarga |
+| 🏨 [**Host Check**](https://hostcheck.com.br) | Python · React · PostgreSQL | Gestão Inteligente de Hóspedes |
 | ⚡ [**ChargIn**](https://chargin.io) | PHP · Laravel · Docker | Rede de eletropostos com franquias e IoT |
-| 🎯 [**Monitor Loterias Go**](https://github.com/infinitytec15/monitor-loterias-golang) | Go · Goroutines | Monitoramento em tempo real com websockets |
+| 🎯 [**Monitor Loterias Go**](https://github.com/infinitytec15/monitor-loterias-golang) | Go · Goroutines | Monitoramento em tempo real com WebSockets |
 | 🧠 [**Monitor Loterias Py**](https://github.com/infinitytec15/monitor_loterias_python) | Python · Asyncio | Bot de scraping e notificações automáticas |
 | 🔋 [**Script Recarga GTA RP**](https://github.com/infinitytec15/script-recarga-gtarp) | Lua · FiveM | Sistema de recarga para servidores RP |
 | 🃏 [**Cartas GTA RP**](https://github.com/infinitytec15/cartas_gtaRP) | Lua · FiveM | Jogos de cartas para servidores GTA RP |
@@ -205,7 +250,7 @@ fun_fact: "Xadrez no sangue, código na veia ♟️"
 ```mermaid
 graph LR
     A[🌐 Trigger/Webhook] --> B{⚙️ n8n}
-    B --> C[🤖 AI Agent/LLM]
+    B --> C[🤖 AI Agent / LLM]
     B --> D[🗄️ Database]
     B --> E[📡 APIs Externas]
     C --> F[📬 Notificações]
@@ -218,10 +263,24 @@ graph LR
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<!-- FOOTER SVG — inline, always renders -->
+<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#footer)" rx="10"/>
+  <path d="M0,0 C150,40 300,0 450,30 C600,60 750,10 900,40 L900,0 Z" fill="#a78bfa" opacity="0.08"/>
+  <text x="450" y="48" font-family="'Segoe UI', Arial, sans-serif" font-size="15"
+        fill="#a78bfa" text-anchor="middle" font-style="italic">
+    "Automatize o que é repetitivo. Construa o que é impossível."
+  </text>
+</svg>
 
-**"Automatize o que é repetitivo. Construa o que é impossível."**
+<br/>
 
 [![Email](https://img.shields.io/badge/gilberto@infinitytec.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilberto@infinitytec.info)
 [![GitHub](https://img.shields.io/badge/@infinitytec15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infinitytec15)
