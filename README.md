@@ -1,66 +1,161 @@
-# 👋 Olá, eu sou Gilberto Jr!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+PHP%2C+Python%2C+C%23+e+Go;Apaixonado+por+c%C3%B3digo%2C+bots+e+automacoes;Ethical+Hacker+e+Entusiasta+DevOps;Sempre+aprendendo+e+compartilhando!)](https://git.io/typing-svg)
-
----
-
-![Dev Working](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Developer.gif)
-
----
-
-## 🧠 Sobre mim
-
-💼 Fullstack Developer focado em **backend**, **automação**, **scraping** e **bots**.  
-💡 Especialista em **Laravel**, **Django**, **C# com Discord.Net**, **Go** e APIs REST.  
-🚀 Explorando microserviços, arquitetura limpa e cloud computing com AWS.  
-
----
-
-## 🛠️ Stack de Tecnologias
-
-### 🚀 Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧰 Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### 🛢️ Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinitytec15&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitytec15&layout=compact&theme=radical)
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gilberto%20Jr&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20AI%20%26%20Automation%20Architect&descAlignY=58&descSize=20&descColor=a78bfa"/>
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=800&lines=⚙️+Backend+Engineer+%7C+PHP+%7C+Python+%7C+Go+%7C+C%23;🤖+AI+Engineer+%26+Automation+Architect;🔗+n8n+%7C+LangChain+%7C+OpenAI+%7C+Multi-Agent+Systems;🛡️+Ethical+Hacker+%26+DevOps+Enthusiast;⚡+Microservices+%7C+AWS+%7C+Clean+Architecture)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- PROFILE BADGES ROW -->
+<a href="https://github.com/infinitytec15">
+  <img src="https://img.shields.io/github/followers/infinitytec15?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=infinitytec15&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d1117"/>
+<a href="mailto:gilberto@infinitytec.info">
+  <img src="https://img.shields.io/badge/Email-gilberto@infinitytec.info-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 Contribuições & Engajamento
+<!-- ABOUT ME SECTION -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hyperkitty.gif"/>
+
+## 🧠 Quem sou eu?
+
+```yaml
+name: Gilberto Jr
+location: Brasil 🇧🇷
+role: Backend Engineer & AI Automation Architect
+focus:
+  - Inteligência Artificial & LLMs
+  - Automação com n8n & Agentes IA
+  - Backend de alta performance
+  - Scraping, Bots & Microserviços
+currently_learning:
+  - Multi-Agent AI Systems
+  - LangChain & LangGraph
+  - RAG Pipelines
+  - Cloud-native architectures
+fun_fact: "Xadrez no sangue, código na veia ♟️"
+```
+
+<br clear="right"/>
+
+---
+
+## 🤖 Engenharia de IA & Automação
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infinitytec15&theme=radical)](https://github.com/infinitytec15)
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🧠  STACK DE INTELIGÊNCIA ARTIFICIAL            ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔗 Orquestração    │  n8n · LangChain · LangGraph           ║
+║  🤖 LLMs            │  OpenAI · Gemini · Ollama · Mistral    ║
+║  📡 RAG & Vetores   │  Pinecone · ChromaDB · FAISS           ║
+║  🕷️ Agentes         │  CrewAI · AutoGen · Multi-Agent        ║
+║  🖼️ IA Generativa   │  Stable Diffusion · DALL·E · Midjourney║
+║  ⚙️ Automação       │  n8n · Webhooks · Zapier · Make        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=green"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=robot&logoColor=white"/>
+</div>
+
+---
+
+## 🛠️ Stack Completa de Tecnologias
+
+### 🚀 Linguagens de Programação
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,python,go,cs,js,ts&theme=dark"/>
+</div>
+
+### 🧰 Frameworks & Bibliotecas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=laravel,django,fastapi,nestjs,dotnet&theme=dark"/>
+</div>
+
+### 🛢️ Bancos de Dados
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb&theme=dark"/>
+</div>
+
+### ⚙️ DevOps, Cloud & Ferramentas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,nginx,linux,vscode,rider&theme=dark"/>
+</div>
+
+---
+
+## 📊 Estatísticas & Atividade
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=infinitytec15&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitytec15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<!-- STREAK STATS - Animated fire streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitytec15&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888"/>
+
+</div>
+
+---
+
+## 🐍 Snake comendo meus commits!
+
+<div align="center">
+
+<!-- SNAKE ANIMATION ON CONTRIBUTIONS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infinitytec15/infinitytec15/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitytec15/infinitytec15/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/infinitytec15/infinitytec15/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> 💡 **Para ativar a snake:** Adicione um GitHub Action no seu repositório de perfil:
+> `.github/workflows/snake.yml` → [Veja o tutorial aqui](https://github.com/Platane/snk)
+
+---
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infinitytec15&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b35&area=true&hide_border=true&area_color=7c3aed)](https://github.com/infinitytec15)
+
+</div>
+
+---
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=infinitytec15&theme=darkhub&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -68,28 +163,69 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🎰 [Girowin](https://girowin.com) — Cassino online
-- 💳 [Intra Pay](https://intrapay.io) — Plataforma Fintech
-- ⚡ [ChargIn](https://chargin.io) — Eletropostos e franquias
-- 🎯 [Monitor de Loterias - GoLang](https://github.com/infinitytec15/monitor-loterias-golang)
-- 🧠 [Monitor de Loterias - Python](https://github.com/infinitytec15/monitor_loterias_python)
-- 🔋 [Script Recarga GTA RP](https://github.com/infinitytec15/script-recarga-gtarp)
-- 🃏 [Jogos de Cartas GTA RP](https://github.com/infinitytec15/cartas_gtaRP)
+<div align="center">
+
+| 🎯 Projeto | 🛠️ Stack | 📝 Descrição |
+|-----------|---------|-------------|
+| 🎰 [**Girowin**](https://girowin.com) | JS · NesteJS · Postgres | Plataforma de cassino online de alta performance |
+| 💳 [**Intra Pay**](https://intrapay.io) | Nodejs · Nest · PostgreSQL | Fintech com PIX e pagamentos automatizados |
+| 💳 [**Spotty**](https://intrapay.io) | TS - Python - LLM | Sistema para busca de pontos de recarga |
+| 💳 [**Host Check**](https://hostcheck.com.br) | Python · React · PostgreSQL | Gestão Inteligente de Hospedes |
+| ⚡ [**ChargIn**](https://chargin.io) | PHP · Laravel · Docker | Rede de eletropostos com franquias e IoT |
+| 🎯 [**Monitor Loterias Go**](https://github.com/infinitytec15/monitor-loterias-golang) | Go · Goroutines | Monitoramento em tempo real com websockets |
+| 🧠 [**Monitor Loterias Py**](https://github.com/infinitytec15/monitor_loterias_python) | Python · Asyncio | Bot de scraping e notificações automáticas |
+| 🔋 [**Script Recarga GTA RP**](https://github.com/infinitytec15/script-recarga-gtarp) | Lua · FiveM | Sistema de recarga para servidores RP |
+| 🃏 [**Cartas GTA RP**](https://github.com/infinitytec15/cartas_gtaRP) | Lua · FiveM | Jogos de cartas para servidores GTA RP |
+
+</div>
 
 ---
 
-## 💡 Curiosidades
+## 💡 Curiosidades & DNA de Dev
 
-- 🧠 Viciado em scraping e automação com bots
-- 🌍 Open source é minha vibe!
-- 🛠️ Sempre otimizando o backend
-- ⚡ Fun fact: Amo xadrez e desafios lógicos
+<div align="center">
+
+```
+🤖  Viciado em IA, automações e agentes inteligentes
+🕷️  Scraping é arte — n8n + Python é meu combo favorito
+♟️  Xadrez afia minha lógica de programação
+🌍  Open source first — sempre
+⚡  Otimização de backend é um esporte para mim
+🧪  Se pode ser automatizado, vai ser automatizado
+🔐  Ethical Hacking: entender o sistema para protegê-lo
+☁️  Cloud-native: AWS · Docker · Kubernetes no sangue
+```
+
+</div>
 
 ---
 
-📬 Me chama pra colaborar ou bater um papo tech:  
-[![Email](https://img.shields.io/badge/-gilberto@infinitytec.info-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gilberto@infinitytec.info)
+## 🔧 Workflow de Automação com n8n
+
+```mermaid
+graph LR
+    A[🌐 Trigger/Webhook] --> B{⚙️ n8n}
+    B --> C[🤖 AI Agent/LLM]
+    B --> D[🗄️ Database]
+    B --> E[📡 APIs Externas]
+    C --> F[📬 Notificações]
+    C --> G[🕷️ Scraping]
+    D --> H[📊 Analytics]
+    E --> I[🔁 Automação]
+```
 
 ---
 
-⭐️ Feito com ❤️ por [Gilberto Jr](https://github.com/infinitytec15)
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+**"Automatize o que é repetitivo. Construa o que é impossível."**
+
+[![Email](https://img.shields.io/badge/gilberto@infinitytec.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilberto@infinitytec.info)
+[![GitHub](https://img.shields.io/badge/@infinitytec15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infinitytec15)
+
+⭐️ Feito com 🧠 + ❤️ + ☕ por **Gilberto Jr** — [@infinitytec15](https://github.com/infinitytec15)
+
+</div>
