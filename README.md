@@ -282,7 +282,7 @@ graph LR
 
 <br/>
 
-[![Email](https://img.shields.io/badge/gilberto@infinitytec.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilberto@infinitytec.info)
+[![Email](https://img.shields.io/badge/gilberto@infinitytec.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertobozzi2022@gmail.com)
 [![GitHub](https://img.shields.io/badge/@infinitytec15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infinitytec15)
 
 ⭐️ Feito com 🧠 + ❤️ + ☕ por **Gilberto Jr** — [@infinitytec15](https://github.com/infinitytec15)
